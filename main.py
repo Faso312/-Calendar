@@ -4,10 +4,10 @@ from bs4 import BeautifulSoup as bs
 import pandas as pd
 
 def main(): #основная функция системы
-    URL_TEMPLATE = "https://gorodzovet.ru"
+    URL_TEMPLATE = "https://gorodzovet.ru/samara/2024/march/"
     r = requests.get(URL_TEMPLATE)
     print(r.status_code)
- pass
+    pass
 
     
 try: #последовательная обработка функциий
