@@ -1,7 +1,12 @@
 # main
-
+import requests
+from bs4 import BeautifulSoup as bs
+import pandas as pd
 
 def main(): #основная функция системы
+    URL_TEMPLATE = "https://gorodzovet.ru"
+    r = requests.get(URL_TEMPLATE)
+    print(r.status_code)
  pass
 
     
