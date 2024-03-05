@@ -1,0 +1,39 @@
+class="row eventsWrapper" style="margin-top:30px">
+
+<div class="i1 col-lg-4 col-md-6 col-sm-12 mb-4">
+    <div class="event-block">        
+                <div data-link="/samara/denezhnaia-akatsiia-event10133546" data-id="10133546" class="innlink save-click event-image" onclick="yaCounter22587685.reachGoal('recommend_event_click');">                                                    
+<picture>          
+        <source media="(max-width: 600px)" srcset="https://static.gorodzovet.ru/uploads/2024/2/25/photo200-10133546.webp" type="image/webp?v=190224133931">
+        <source media="(max-width: 3000px)" srcset="https://static.gorodzovet.ru/uploads/2024/2/25/photo400-10133546.webp?v=190224133931" type="image/webp">
+        <source srcset="https://static.gorodzovet.ru/uploads/2024/2/25/photo600-10133546.webp?v=190224133931" type="image/webp">          
+        <img src="https://static.gorodzovet.ru/uploads/2024/2/25/photo600-10133546.jpg?v=190224133931" alt="Денежная акация" importance="high" fetchpriority="high">
+</picture>        
+                </div>
+                <div class="event-date">
+                                <a class="event-month" href="/samara/2024/february/" title="мероприятия в  Самаре февраля 2024">
+                                    Фев
+                                </a>
+                                <span class="event-day innlink" data-link="/samara/day2024-02-25/">
+                                    25
+                                </span>
+                </div>
+                <div data-link="/samara/denezhnaia-akatsiia-event10133546" class="innlink event-link save-click" data-id="10133546" onclick="yaCounter22587685.reachGoal('recommend_event_click');">
+                    <a href="/samara/denezhnaia-akatsiia-event10133546">
+                        <h3 class="lines lines2">
+                                Денежная акация
+                        </h3>
+                    </a>
+                        <div class="lines lines4 mb-2">
+                                Приглашаю на психологическую трансформационную игру Денежная акация
+                        </div>
+                </div>
+                <div class="event-meta">
+                    <div class="event-tags">
+                                <a href="/samara/psycho/" title="Психология События в Самаре" class="tag"><svg><use xlink:href="/static/fa/icons.svg?v=8#sun"></use></svg>
+                                    Психология
+                                </a>   
+                    </div>
+                </div>
+    </div>
+</div>
