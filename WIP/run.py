@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup as bs
 
 
 def true_connect(url):
-    soup=bs(requests.get(url).text, 'html.parse')
+    soup=bs(requests.get(url).text, 'lxml')
     main_block=soup.find_all('div', class_='row eventsWrapper') #+
     for row_nm, event in enumerate(main_block, start=1): 
         for block_nm, data in enumerate(event, start=1): 
@@ -15,7 +15,7 @@ def true_connect(url):
             ev_link=''.join(['https://gorodzovet.ru/',data.find('div', class_='innlink event-link save-click').get('data-link')])
             try: ev_price=data.find('span', class_='event-price').text
             except AttributeError: ev_price=''
-            #print(f'{block_nm}: {ev_name} ___ {ev_disc} ___ {ev_dt_m} ___ {ev_tags} ___ {ev_link} ___ {ev_price}')
+            print(f'{block_nm}: {ev_name} ___ {ev_disc} ___ {ev_dt_m} ___ {ev_tags} ___ {ev_link} ___ {ev_price}')
     second_block=soup.find(id="events")
     print(second_block.prettify())
 
