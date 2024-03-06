@@ -37,3 +37,11 @@ class="row eventsWrapper" style="margin-top:30px">
                 </div>
     </div>
 </div>
+
+[<div class="i1 col-lg-4 col-md-6 col-sm-12 mb-4">
+[<div class="i1 col-lg-4 col-md-6 col-sm-12 mb-4
+<div class="event-block">
+<div class="innlink save-click event-image" data-id="9275295" data-link="/samara/spektakl-katapulta-event9275295">
+<picture>
+<source media="(max-width: 600px)" srcset="https://static.gorodzovet.ru/uploads/2023/10/28/photo200-9275295.webp" type="image/webp"><source media="(max-width: 3000px)" srcset="https://static.gorodzovet.ru/uploads/2023/10/28/photo400-9275295.webp" type="image/webp"><source srcset="https://static.gorodzovet.ru/uploads/2023/10/28/photo600-9275295.webp" type="image/webp"><img alt="Спектакль «Катапульта»" fetchpriority="high" importance="high" src="https://static.gorodzovet.ru/uploads/2023/10/28/photo600-9275295.jpg"/></source></source></source></picture></div><div class="event-date"><span style="font-size:16px">05 марта, </span><span style="font-size:16px">04 апреля</span></div><div class="innlink event-link save-click" data-id="9275295" data-link="/samara/spektakl-katapulta-event9275295"><a href="/samara/spektakl-katapulta-event9275295"> <h3 class="lines lines2">Спектакль "Катапульта"</h3> </a><div class="lines lines4 mb-2">Дмитрий Богославский Катапульта трагикомедия Потерявшийся гдето в этой жизни инфантильный неудачник Вадик мечется между долгом …</div><span class="event-price">300 <svg><use xlink:href="/static/fa/icons.svg?v=8#ruble-sign"></use></svg> </span></div><div class="event-meta"><div class="event-tags"><a class="tag" href="/samara/theater/" title="Театр События в Самаре"><svg><use xlink:href="/static/fa/icons.svg?v=8#theater-masks"></use></svg> Театр </a><a class="tag" href="/samara/culture/" title="Культура События в Самаре"><svg><use xlink:href="/static/fa/icons.svg?v=8#image"></use></svg> Культура </a></div></div></div></div>]
+PS C:\Users\faso3\Documents\IT\-Calendar> 
