@@ -15,8 +15,8 @@ def true_connect(url):
             ev_link=''.join(['https://gorodzovet.ru/',data.find('div', class_='innlink event-link save-click').get('data-link')])
             try: ev_price=data.find('span', class_='event-price').text
             except AttributeError: ev_price=''
-    second_block=soup.find(id='events').text
-    print(second_block)
+    second_block=soup.find(id='events')
+    print(second_block.prettify())
 
 try:
     true_connect('https://gorodzovet.ru/samara/2024/march/')
